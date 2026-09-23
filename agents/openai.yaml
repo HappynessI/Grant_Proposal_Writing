@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研项目申报书写作"
+  short_description: "按指定底稿与课题分工撰写本子，规范段落句式、指标分配和局部修改"
+  default_prompt: "使用 $grant-proposal-writing，依据我提供的指南、模板、底稿和负责范围撰写或修改申报内容，保留指定版本，只交付我要求的内容形式。"

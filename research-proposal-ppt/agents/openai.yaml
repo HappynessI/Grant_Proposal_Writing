@@ -1,4 +1,4 @@
 interface:
-  display_name: "研究方案PPT制作"
-  short_description: "依据背景材料编写研究方案PPT，保持完整句子、图文上下排列和研究主体一致"
-  default_prompt: "使用 $research-proposal-ppt，根据我提供的背景材料和模板制作或修改研究方案PPT，保持图文上下排列、说明一至两行及研究主体一致。"
+  display_name: "横向项目与研究方案PPT制作"
+  short_description: "按领域整合多份素材，用统一模板制作横向项目汇报和研究方案PPT，并可直接修改pptx"
+  default_prompt: "使用 $research-proposal-ppt，根据我提供的规划方案、素材和模板，按领域组织内容，给出逐页方案或直接修改PPT。"
